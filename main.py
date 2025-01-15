@@ -1,4 +1,4 @@
-#Day 3
+#Day3
 foodType = input("Name a type of food: ")
 plant = input("Name a plant: ")
 cookingType = input("Name a method of cooking: ")
